@@ -1,0 +1,10 @@
+crear env
+virtualenv -p python3 env
+
+Activate
+
+source ./env/bin7activate
+
+run
+
+python -m flask run
